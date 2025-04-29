@@ -46,9 +46,9 @@ GitHub Profile Finder is a sleek, responsive web application that allows users t
 
 ## Screenshots
 
-[screenshot-1](screenshot-1.png)
-[screenshot-2](screenshot-2.png)
-[screenshot-3](screenshot-3.png)
+![screenshot-1](screenshot-1.png)
+![screenshot-2](screenshot-2.png)
+![screenshot-3](screenshot-3.png)
 
 ## API Reference
 
