@@ -22,6 +22,7 @@ GitHub Profile Finder is a sleek, responsive web application that allows users t
 - **Repository Lists**: Lists the user's public repositories with links to each on github.
 
 ## Installation
+To run the application locally:
 
 1. **Clone the Repository**
  
@@ -35,7 +36,7 @@ GitHub Profile Finder is a sleek, responsive web application that allows users t
    ```
 3. **Open the Application**
 
-   Open the folder and just double click the ```index.html``` file. Your browser will display the application.
+   Open ```index.html``` file in your preferred web browser.
 
 ## Usage
 
