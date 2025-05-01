@@ -34,7 +34,7 @@ To run the application locally:
    ```bash
    cd Github-Profile-Search-Application
    ```
-3. **Open the Application**
+3. **Open the Project Folder**
 
    Open ```index.html``` file in your preferred web browser.
 
